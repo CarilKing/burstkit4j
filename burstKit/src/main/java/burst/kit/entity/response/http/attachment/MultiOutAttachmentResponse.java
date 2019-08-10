@@ -66,7 +66,7 @@ public final class MultiOutAttachmentResponse extends TransactionAttachmentRespo
         }
 
         public BurstValue getAmount() {
-            return BurstValue.fromPlanck(recipient);
+            return BurstValue.fromPlanck(amount);
         }
     }
 }

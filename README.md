@@ -24,7 +24,7 @@ This project is currently in beta. Please report any issues through the GitHub [
     <dependency>
 	    <groupId>com.github.burst-apps-team</groupId>
 	    <artifactId>burstkit4j</artifactId>
-	    <version>v0.9-beta1</version>
+	    <version>0.12.7</version>
 	</dependency>
 </dependencies>
 ```
@@ -36,7 +36,7 @@ repositories {
 	maven { url 'https://jitpack.io' }
 }
 dependencies {
-	implementation 'com.github.burst-apps-team:burstkit4j:v0.9-beta1'
+	implementation 'com.github.burst-apps-team:burstkit4j:0.12.7'
 }
 ```
 
